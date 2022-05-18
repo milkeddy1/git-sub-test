@@ -1,0 +1,3 @@
+[submodule "git-submodules"]
+	path = git-submodules
+	url = https://github.com/milkeddy1/git-submodules.git
